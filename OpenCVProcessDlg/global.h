@@ -1,0 +1,4 @@
+#pragma once
+
+
+#define WM_MYMSG_BASIC_TEMPLATE_MATCHING WM_USER+1010
